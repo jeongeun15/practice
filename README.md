@@ -16,7 +16,6 @@
 * [파이썬으로 데이터 주무르기](https://github.com/jeongeun15/practice/tree/master/파이썬으로_데이터_주무르기)
   - 1장
   - 2장
-  - 3장
 
 
 
